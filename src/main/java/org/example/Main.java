@@ -14,6 +14,7 @@ public class Main {
         cashier.setName("Monsaw");
         cashier.setQualification(Qualification.FIRST_CLASS);
         cashier.setAge(10);
+
         cashier.setAddress("soka");
 
         Manager manager = new Manager(1l, "Idris","Soka, Ibadan", 23, "example.com");
